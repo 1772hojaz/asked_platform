@@ -1,2 +1,2 @@
 # asked_platform
-Pdf resources for revision
+resources for revision
